@@ -34,3 +34,9 @@ print(phrase.upper().isupper()) #true, because it converts then checks
 print(len(phrase)) #checks for length in string
 
 print(phrase[0]) # T first letter in the string
+
+print(phrase.index("T")) #returns in the index number of T . 0
+print(phrase.index("travel")) #returns 11 because thats the index that travel starts in 
+
+
+print(phrase.replace("collective", "crew")) #replaces first param with the second
