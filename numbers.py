@@ -35,3 +35,8 @@ print(round(3.7)) #4
 print(floor(3.7)) #3 rounds the number down no matter what
 print(ceil(3.2)) #4 rounds the number up no matter what
 print(sqrt(36)) #6.0
+
+
+print()
+
+    
