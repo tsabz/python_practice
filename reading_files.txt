@@ -1,0 +1,6 @@
+
+
+employee_file = open("exmployees.txt", "r")
+
+
+employee_file.close() 
